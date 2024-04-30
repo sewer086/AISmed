@@ -1,0 +1,19 @@
+c:\users\fox\documents\visual studio 2013\Projects\ProectMedecinaAIS\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.exe.config
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.exe.config
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.exe
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.pdb
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.csprojResolveAssemblyReference.cache
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.Form1.resources
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.Properties.Resources.resources
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.csproj.GenerateResource.Cache
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.exe
+C:\Users\Fox\Documents\Visual Studio 2013\Projects\ProectMedecinaAIS — копия\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.pdb
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.exe.config
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.exe
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.pdb
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.exe
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\bin\Debug\ProectMedecinaAIS.pdb
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.csprojResolveAssemblyReference.cache
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.Form1.resources
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.Properties.Resources.resources
+D:\Project c++\проект юрий\ProectMedecinaAIS\ProectMedecinaAIS\obj\Debug\ProectMedecinaAIS.csproj.GenerateResource.Cache
